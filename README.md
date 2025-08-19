@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaskh" alt="amirrezaskh" /></a> </p> -->
 
-- 🔭 I’ve recently graduated with an M.Sc. in Computer Science from the University of Manitoba!**
+- 🔭 I’ve recently graduated with an M.Sc. in Computer Science from the University of Manitoba!
 
 - ⚡ Fun fact **I like to work on Sundays😆**
 
