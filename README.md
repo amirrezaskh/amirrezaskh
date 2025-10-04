@@ -18,4 +18,14 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaskh&show_icons=true&locale=en&layout=compact" alt="amirrezaskh" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezaskh&show_icons=true&locale=en" alt="amirrezaskh" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezaskh&show_icons=true&locale=en" alt="amirrezaskh" /></p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirrezaskh&theme=dracula&margin-w=18&margin-h=18&column=6&row=1"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/amirrezaskh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirrezaskh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirrezaskh&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
