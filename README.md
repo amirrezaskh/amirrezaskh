@@ -19,6 +19,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaskh&show_icons=true&locale=en&layout=compact" alt="amirrezaskh" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezaskh&show_icons=true&locale=en" alt="amirrezaskh" /></p> -->
+<h3 align="left">GitHub Analytics:</h3> 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amirrezaskh&theme=flat&margin-w=18&margin-h=18&column=6&row=1"/>
 </p>
